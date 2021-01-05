@@ -49,5 +49,17 @@ export const reviewsDefault = [
         'software'
     ],
     'year': 2019
+  },
+  {
+    'author': 'WP Owls',
+    'title': '2019 - Year in Review',
+    'thumb': 'https://wpowls.co/app/uploads/2021/01/cropped-wordpressowka-profilowe-270x270.png',
+    'url': 'hhttps://wpowls.co/articles/wp-owls-2020-summary/',
+    'categories': [
+        'wordpress',
+        'newsletter',
+        'technology'
+    ],
+    'year': 2020
   }  
 ];
