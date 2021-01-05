@@ -1,4 +1,4 @@
-export const reviews = [
+export const reviewsDefault = [
   {
       'author': 'Travis Lopes',
       'thumb': 'https://s33285.pcdn.co/wp-content/themes/portfolio/assets/images/headshot.png',

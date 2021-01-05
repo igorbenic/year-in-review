@@ -1,7 +1,6 @@
-import { reviews } from '../reviews';
 import Review from './Review';
 
-function findReviews(category, year) {
+function findReviews(reviews, category, year) {
     return reviews.filter((review) => {
         if ( category && ! review.categories.includes(category) ) {
             return false;
@@ -15,14 +14,14 @@ function findReviews(category, year) {
     });
 }
 
-export default function Reviews({ category, year }) {
-    const reviews = findReviews( category, year );
+export default function Reviews({ reviews, category, year }) {
+    const foundReviews = findReviews( reviews, category, year );
 
     return (
         <div id="reviewList" className="container rounded mx-auto my-4 bg-white text-black p-4 shadow-md">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {
-                    reviews.map((review, index) => <Review index={index} key={"review-" + index} review={review} />)
+                    foundReviews.map((review, index) => <Review index={index} key={"review-" + index} review={review} />)
                 }
             </div>
         </div>
