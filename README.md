@@ -17,6 +17,4 @@ Categories
 Year*
 ```
 
-Or fork this repository, add your own into `src/reviews.js` and create a PR to add it here in the repository.
-
-Current process is using the data as an object so for each change I have to redeploy it. I'll work on it so it can fetch data from a remote json so we don't have to redeploy the site just to fetch new data.
+Or fork this repository, add your own into `public/reviews.json` and create a PR to add it here in the repository.
