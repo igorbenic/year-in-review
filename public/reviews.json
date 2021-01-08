@@ -73,7 +73,8 @@
 				"plugin",
 				"software",
 				"business",
-				"profit"
+				"profit",
+				"revenue"
 			],
 			"year": 2019
 		},
@@ -140,6 +141,19 @@
 				"gutenberg"
 			],
 			"year": 2020
+		},
+		{
+			"author": "WP Fusion",
+			"title": "2019 In Review",
+			"thumb": "https://wpfusion.com/wp-content/uploads/2019/08/cropped-logo-mark-500w-32x32.png",
+			"url": "https://wpfusion.com/news/2019-in-review/",
+			"categories": [
+				"wordpress",
+				"plugin",
+				"branding",
+				"revenue"
+			],
+			"year": 2019
 		}
 	]
 }
