@@ -26,6 +26,19 @@
 			"year": 2020
 		},
 		{
+			"author": "Newsletter Glue",
+			"title": "2020 Review",
+			"thumb": "https://newsletterglue.com/blog/wp-content/uploads/2020/12/cropped-circle-logo-light1.png",
+			"url": "https://newsletterglue.com/blog/founders-journey/2020-review/",
+			"categories": [
+				"wordpress",
+				"newsletter",
+				"plugin",
+				"software"
+			],
+			"year": 2020
+		},
+		{
 			"author": "rtCamp",
 			"title": "Year in Review – 2020",
 			"thumb": "https://rtcamp.com/wp-content/uploads/2020/01/cropped-site-icon-512x512-1-184x184.png",
