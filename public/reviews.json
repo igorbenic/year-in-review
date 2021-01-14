@@ -1,5 +1,17 @@
 {
 	"reviews": [{
+			"author": "Kyle Maurer",
+			"thumb": "https://2xwbo98xbul2e3ai3q6sec13-wpengine.netdna-ssl.com/wp-content/uploads/sites/6/2021/01/2020-08-07-15.12.28-1-scaled-e1610489662138-768x650.jpg",
+			"title": "My 2020 Year in Review",
+			"url": "http://kyleblog.net/2021/01/my-2020-year-in-review/",
+			"categories": [
+				"wordpress",
+				"personal",
+				"life"
+			],
+			"year": 2020
+		    },
+		    {
 			"author": "Travis Lopes",
 			"thumb": "https://s33285.pcdn.co/wp-content/themes/portfolio/assets/images/headshot.png",
 			"title": "2020 Year In Review",
