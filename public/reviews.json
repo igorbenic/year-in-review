@@ -180,6 +180,20 @@
 				"revenue"
 			],
 			"year": 2019
+		},
+		{
+			"author": "Directorist",
+			"title": "Directorist Year in Review 2020",
+			"thumb": "https://directorist.com/wp-content/uploads/2019/10/cropped-fevicon-32x32.png",
+			"url": "https://directorist.com/blog/directorist-year-in-review-2020/",
+			"categories": [
+				"wordpress",
+				"plugin",
+				"directory",
+				"technology",
+				"software"
+			],
+			"year": 2020
 		}
 	]
 }
