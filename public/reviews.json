@@ -103,6 +103,19 @@
 			],
 			"year": 2020
 		},
+		    {
+			"author": "Steve Burge",
+			"title": "PublishPress 2020: The Year Everything Doubled",
+			"thumb": "https://publishpress.com/wp-content/uploads/2021/01/publishpress-2020.jpg",
+			"url": "https://publishpress.com/blog/publishpress-2020/",
+			"categories": [
+				"wordpress",
+				"business",
+				"revenue",
+				"software"
+			],
+			"year": 2020
+		},
 		{
 			"author": "Sandhills Development",
 			"title": "2019 YEAR IN REVIEW",
