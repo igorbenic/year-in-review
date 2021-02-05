@@ -4,6 +4,8 @@ This is a simple project to easily list as many year in review articles as possi
 
 I love reading how everyone has experienced a year in more than perspectives (business, life, hobbies etc.).
 
+URL: [https://reviewyears.com/](https://reviewyears.com/)
+
 # Add a Year in Review
 
 To add a year in review, you can either create an issue here: [https://github.com/igorbenic/year-in-review/issues/new](https://github.com/igorbenic/year-in-review/issues/new) stating the following:
