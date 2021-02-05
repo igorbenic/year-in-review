@@ -52,6 +52,18 @@
 			],
 			"year": 2020
 		},
+		      {
+			"author": "Brad Touesnard",
+			"title": "2020 Year in Review: Business in the Front, Business in the Back",
+			"thumb": "https://cdn.deliciousbrains.com/content/uploads/2021/01/07093223/2020-year-review-featured-img-100x100.jpg",
+			"url": "https://deliciousbrains.com/2020-year-in-review/",
+			"categories": [
+				"wordpress",
+				"plugin",
+				"business"
+			],
+			"year": 2020
+		},
 		{
 			"author": "BobWP",
 			"title": "2020 Into 2021: The Perfect Marriage of Content and Community",
@@ -183,6 +195,18 @@
 				"business",
 				"profit",
 				"revenue"
+			],
+			"year": 2019
+		},
+		    {
+			"author": "Brad Touesnard",
+			"title": "2019 Year in Review: Double the Products, Double the Fun",
+			"thumb": "https://cdn.deliciousbrains.com/content/uploads/2020/01/08100836/2019-year-review-100x100.jpg",
+			"url": "https://deliciousbrains.com/2019-year-in-review/",
+			"categories": [
+				"wordpress",
+				"plugin",
+				"business"
 			],
 			"year": 2019
 		},
