@@ -88,6 +88,18 @@
 			],
 			"year": 2020
 		},
+		    {
+			"author": "WPChill",
+			"title": "2020 year in review",
+			"thumb": "https://wpchill.com/wp-content/uploads/2021/01/cropped-1115522965975_001391c9c1bbbf8b71b3_132-32x32.jpg",
+			"url": "https://wpchill.com/2020-year-in-review/",
+			"categories": [
+				"wordpress",
+				"plugin",
+				"business"
+			],
+			"year": 2020
+		},
 		{
 			"author": "wpfusion",
 			"title": "2020 in Review",
