@@ -6,7 +6,7 @@ I love reading how everyone has experienced a year in more than perspectives (bu
 
 # Add a Year in Review
 
-To add a year in review, you can either create an issue here: [https://github.com/igorbenic/year-in-review/issues/new])https://github.com/igorbenic/year-in-review/issues/new) stating the following:
+To add a year in review, you can either create an issue here: [https://github.com/igorbenic/year-in-review/issues/new](https://github.com/igorbenic/year-in-review/issues/new) stating the following:
 
 ```
 Title*:
